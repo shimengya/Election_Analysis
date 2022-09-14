@@ -14,5 +14,5 @@ Per this analysis results, the board of election could easily know the total num
 
 ## Election Audit Summary
 - There are 369,711 votes in total during this election.
- - There are most votes in Denver approximately 80%.
- - Diana DeGette won the most votes which about 3/4.
+  - There are most votes in Denver approximately 80%.
+  - Diana DeGette won the most votes which about 3/4.
