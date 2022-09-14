@@ -1,5 +1,5 @@
 # Election_Analysis
-Using Python to automate election votes data
+Using Python to automate election votes data analysis
 
 ## Purpose of this analysis
 This analysis is creating an automation process using Python to analysis an election audit of the tabulated results for a U.S. congressional precinct in Colorado. 
